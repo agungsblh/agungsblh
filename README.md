@@ -4,6 +4,9 @@
 - 🌱 Currently learning Blazor
 - 💡 I love making indie games
 
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungsblh&layout=compact&theme=radical)
+
 ## 📫 Connect with me  
 
 <a href="https://linkedin.com/in/agungsblh" target="_blank">
