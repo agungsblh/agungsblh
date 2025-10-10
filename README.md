@@ -7,6 +7,7 @@
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats-ruby-alpha-84.vercel.app/api/top-langs/?username=agungsblh&count_private=true&layout=compact&theme=transparent)
 
+## 🏆 Trophies
 [![Trophies](https://github-profile-trophy.vercel.app/?username=agungsblh&theme=light&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with me  
