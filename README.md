@@ -5,9 +5,7 @@
 - 💡 I love making indie games
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungsblh)
-
-![Top Langs](https://github-readme-stats-rbes8sbrr-muhammad-agung-sabillahs-projects.vercel.app/api/top-langs/?username=agungsblh&count_private=true&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-ruby-alpha-84.vercel.app/api/top-langs/?username=agungsblh&count_private=true&layout=compact&theme=transparent)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=agungsblh&theme=light&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
