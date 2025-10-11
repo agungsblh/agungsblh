@@ -4,8 +4,10 @@
 - 🌱 Currently learning Blazor
 - 💡 I love making indie games
 
-## 📊 Most Used Languages
+## 📊 Status
 ![Top Langs](https://github-readme-stats-ruby-alpha-84.vercel.app/api/top-langs/?username=agungsblh&count_private=true&layout=compact&theme=transparent&cache_seconds=3600)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=agungsblh&theme=transparent)](https://git.io/streak-stats)
 
 ## 🏆 Trophies
 [![Trophies](https://github-profile-trophy.vercel.app/?username=agungsblh&theme=light&column=5)](https://github.com/ryo-ma/github-profile-trophy)
