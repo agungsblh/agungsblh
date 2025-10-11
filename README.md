@@ -5,7 +5,7 @@
 - 💡 I love making indie games
 
 ## 📊 Status
-![Top Langs](https://github-readme-stats-ruby-alpha-84.vercel.app/api/top-langs/?username=agungsblh&count_private=true&layout=compact&theme=transparent&cache_seconds=3600)
+![Top Langs](https://github-readme-stats-ruby-alpha-84.vercel.app/api/top-langs/?username=agungsblh&count_private=true&layout=compact&theme=transparent&cache_seconds=3601)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=agungsblh&theme=transparent)](https://git.io/streak-stats)
 
