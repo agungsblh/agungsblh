@@ -10,7 +10,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=agungsblh&theme=transparent)](https://git.io/streak-stats)
 
 ## 🏆 Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=agungsblh&theme=light&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=agungsblh&theme=transparent&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with me  
 
